@@ -1,4 +1,4 @@
-# Sample of Docker1.5
+# Docker 1.5
 
 Let's try out new version of Docker,
 
